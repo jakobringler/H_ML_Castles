@@ -1,4 +1,4 @@
-# this script is partly based on Aladdin Perssons Pix2Pix Implementation 
+# this script is partially based on Aladdin Perssons Pix2Pix Implementation 
 # for more info check the license file
 
 import os
