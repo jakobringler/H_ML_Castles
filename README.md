@@ -1,4 +1,4 @@
-# ML Supported Procedural Castles in SideFX Houdini
+# ML Supported Procedural Castles in SideFX Houdini (Bachelor Thesis Project)
 
 ## Prerequisites:
 
