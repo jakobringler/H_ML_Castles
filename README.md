@@ -22,4 +22,4 @@ _(CPU mode (without NVIDIA GPU) and CUDA or CudNN could work with minimal adjust
 - Tensorboard 2.7.0
 - tqdm 4.62.3
 
-to restore the environment fully an anaconda snapshot can be gound in *00_env*
+to restore the environment fully an anaconda snapshot can be found in *00_env*
